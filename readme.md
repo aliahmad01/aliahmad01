@@ -43,4 +43,4 @@ This is ALI AHMAD, A MERN STACK DEVELOPER.
 
 EMAIL: ahmadch1012@gmail.com
 
-LinkedIn: linkedin.com/in/ali-ahmad-3633a020a
+[Linked In]:(linkedin.com/in/ali-ahmad-3633a020a)
