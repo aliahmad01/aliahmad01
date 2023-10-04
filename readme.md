@@ -1,11 +1,10 @@
 Hey A Warm Welcome!❤️
 
-This is Ehtasham Toor, A MERN STACK DEVELOPER.
+This is ALI AHMAD, A MERN STACK DEVELOPER.
 
-Don't got time to read all this stuff. 😒 No issue have a look on my live portfolio here:
-https://ehtashamportfolio.netlify.app/
 
-<p align="center">I have been working as a MERN stack developer for 1.5 years, gaining hands-on experience in various skills such as HTML, CSS, JavaScript, React, Node.js, Express, Next.js, and TypeScript etc.</p>
+
+<p align="center">I have been working as a MERN stack developer for 6 months, gaining hands-on experience in various skills such as HTML, CSS, JavaScript, React, Node.js, Express and Next.js etc.</p>
 
 <h2>My Tech Stack</h2>
 
@@ -13,7 +12,7 @@ https://ehtashamportfolio.netlify.app/
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,ts&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
 </p>
 
@@ -42,4 +41,6 @@ https://ehtashamportfolio.netlify.app/
 
 <h2>Want to Connect?</h2>
 
-EMAIL: ehtashamtoor50@gmail.com
+EMAIL: ahmadch1012@gmail.com
+
+Linked in : linkedin.com/in/ali-ahmad-3633a020a
