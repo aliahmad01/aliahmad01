@@ -4,7 +4,7 @@ This is ALI AHMAD, A MERN STACK DEVELOPER.
 
 
 
-<p align="center">I have been working as a MERN stack developer for 6 months, gaining hands-on experience in various skills such as HTML, CSS, JavaScript, React, Node.js, Express and Next.js etc.</p>
+<p align="center">I have been working as a Frontend developer for 1.5+ years, gaining hands-on experience in various skills such as HTML, CSS, JavaScript, React, Node.js, Express and Next.js etc.</p>
 
 <h2>My Tech Stack</h2>
 
